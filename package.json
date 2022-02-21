@@ -1,5 +1,5 @@
 {
-  "name": "omise",
+  "name": "omise-staging",
   "version": "0.8.5",
   "description": "Omise Node.js bindings",
   "main": "index.js",
